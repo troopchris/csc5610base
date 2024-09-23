@@ -6,3 +6,4 @@ scikit-learn
 patsy
 statsmodels
 jupyter
+seaborn
