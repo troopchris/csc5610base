@@ -7,3 +7,4 @@ patsy
 statsmodels
 jupyter
 seaborn
+pyarrowjuop
